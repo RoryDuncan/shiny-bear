@@ -1,0 +1,12 @@
+{
+  "name": "testmap",
+  "dimensions": {
+    "width": 5,
+    "height": 5,
+    "tilesize": 50
+  },
+  "tiles": [
+    "plain",
+    "-all"
+  ]
+}
